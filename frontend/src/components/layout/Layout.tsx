@@ -58,7 +58,7 @@ export function Layout() {
               </span>
             )}
           </Link>
-          {!collapsed && <p className="mt-1 text-[11px] text-muted-foreground">普通人的 AI 投研系统</p>}
+          {!collapsed && <p className="mt-1 text-[11px] text-muted-foreground">个人 AI 投研系统 · A股/美股/港股</p>}
         </div>
 
         {/* Nav */}

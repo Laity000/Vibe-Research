@@ -1,4 +1,4 @@
-# Vibe-Research · 普通人的 AI 投研系统
+# Vibe-Research · 个人 AI 投研系统（A股/美股/港股）
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -8,9 +8,9 @@
 
 **[产品预览](#️-产品预览) · [功能](#-功能) · [数据源](#-数据源data-sources) · [快速开始](#-快速开始) · [接入 AI](#-接入-ai) · [合规](#️-合规) · [相关生态](#-相关生态) · [联系作者](#-联系作者)**
 
-> 给你**框架** + **看板** + 一个能**接自己 AI 的接口**。数据配齐，方向由你自己的 AI 给。
+> **Vibe-Research: Your Personal Trading Research Agent** · A股 / 美股 / 港股 的个人投研 Agent。
 >
-> **不荐股 · 不预测 · 无倾向。**
+> 每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。把数据和功能配齐，由**你自己的 AI** 驱动投资研究。
 
 Vibe-Research 是一个开源的「个人 AI 投研看板」，**主推 A 股、兼看美股 / 港股**（A 股常要看隔夜外围脸色，数据配上更全）。它不替你做决定——把行情、研报、估值、财务、公告、资金面、资讯都配齐，放进一个干净的看板，再留一个能接入**你自己的 AI** 的接口。方向和结论，交给你自己配置的模型 / agent。
 
